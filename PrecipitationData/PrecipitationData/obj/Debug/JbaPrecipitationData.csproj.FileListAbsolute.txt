@@ -1,0 +1,10 @@
+c:\users\crusifix\documents\visual studio 2012\Projects\PrecipitationData\PrecipitationData\bin\Debug\RainFall.sdf
+c:\users\crusifix\documents\visual studio 2012\Projects\PrecipitationData\PrecipitationData\bin\Debug\PrecipitationData.exe.config
+c:\users\crusifix\documents\visual studio 2012\Projects\PrecipitationData\PrecipitationData\bin\Debug\PrecipitationData.exe
+c:\users\crusifix\documents\visual studio 2012\Projects\PrecipitationData\PrecipitationData\bin\Debug\PrecipitationData.pdb
+c:\users\crusifix\documents\visual studio 2012\Projects\PrecipitationData\PrecipitationData\obj\Debug\JbaPrecipitationData.csprojResolveAssemblyReference.cache
+c:\users\crusifix\documents\visual studio 2012\Projects\PrecipitationData\PrecipitationData\obj\Debug\PrecipitationData.Form1.resources
+c:\users\crusifix\documents\visual studio 2012\Projects\PrecipitationData\PrecipitationData\obj\Debug\PrecipitationData.Properties.Resources.resources
+c:\users\crusifix\documents\visual studio 2012\Projects\PrecipitationData\PrecipitationData\obj\Debug\JbaPrecipitationData.csproj.GenerateResource.Cache
+c:\users\crusifix\documents\visual studio 2012\Projects\PrecipitationData\PrecipitationData\obj\Debug\PrecipitationData.exe
+c:\users\crusifix\documents\visual studio 2012\Projects\PrecipitationData\PrecipitationData\obj\Debug\PrecipitationData.pdb
